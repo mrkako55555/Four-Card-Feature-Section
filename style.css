@@ -1,0 +1,426 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 1440px;
+    height: 922px;
+    background: #FAFAFA;
+}
+
+.texts h1 {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0.25px;
+    color: #4D4F62;
+    margin-top: 80px;
+    margin-left: 498px;
+}
+
+.texts h2 {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: 0.25px;
+    color: #4D4F62;
+    margin-left: 500px;
+    margin-top: 131px;
+}
+
+.texts p {
+    position: absolute;   
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.104167px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    width: 540px;
+    margin-left: 450px;
+    margin-top: 198px;
+    
+
+}
+
+.first {
+    position: absolute;
+    width: 350px;
+    height: 250px;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    margin-left: 545px;
+    margin-top: 312px;
+
+}
+
+.top {
+    position: absolute;
+    background: #EA5454;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    width: 350px;
+    height: 4px;
+    border-radius: 8px;
+}
+
+.first h1 {
+    position: absolute;  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #4D4F62;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.first p {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-left: 32px;
+    margin-top: 68px;
+    width: 286px;
+    
+}
+
+
+.first img {
+    position: absolute;
+    margin-left: 254px;
+    margin-top: 154px;
+}
+
+
+.super {
+    position: absolute;
+    width: 350px;
+    height: 250px;   
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    margin-left: 165px;
+    margin-top: 452px;
+}
+
+.top2 {
+    position: absolute;
+    background: #44D3D2;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    width: 350px;
+    height: 4px;
+    border-radius: 8px;
+}
+
+
+.super h1 {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #4D4F62;
+    margin-left: 32px;
+    margin-top: 32px;
+}
+
+.super p {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-left: 32px;
+    margin-top: 68px;
+    width: 286px;
+}
+
+
+.super img {
+    position: absolute;
+    margin-left: 254px;
+    margin-top: 154px;
+}
+
+
+.calculator {
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    width: 350px;
+    height: 250px;
+    margin-top: 452px;
+    margin-left: 925px;
+}
+
+.top3 {
+    position: absolute;
+    background: #44D3D2;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    width: 350px;
+    height: 4px;
+}
+
+.calculator h1 {
+    position: absolute; 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #4D4F62;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.calculator p {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-top: 68px;
+    margin-left: 32px;
+    width: 286px;
+}
+
+.calculator img {
+    position: absolute;
+    margin-top: 154px;
+    margin-left: 254px;
+}
+
+
+.karma {
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    width: 350px;
+    height: 250px;
+    margin-top: 592px;
+    margin-left: 545px;
+}
+
+.top4 {
+    position: absolute;
+    background: #FCAE4A;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    width: 350px;
+    height: 4px;
+}
+
+.karma h1 {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #4D4F62;
+    margin-left: 32px;
+    margin-top: 32px;
+}
+
+.karma p {
+    position: absolute;
+    width: 286px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-left: 32px;
+    margin-top: 68px;
+}
+
+.karma img {
+    position: absolute;
+    margin-top: 154px;
+    margin-left: 254px;
+}
+
+@media all and (max-width: 375px) {
+    .container {
+        position: relative;
+        width: 375px;
+        height: 1360px;
+        background: #FAFAFA;
+    }
+    .texts h1 {
+        position: absolute;     
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 275;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: 0.166667px;
+        color: #4D4F62;
+        margin-top: 85px;
+        margin-left: 39px;
+    }
+    .texts h2 {
+        position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        letter-spacing: 0.166667px;
+        color: #4D4F62;
+        margin-left: 40px;
+        margin-top: 122px;
+    }
+    .texts p {
+        position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: center;
+        letter-spacing: 0.104167px;
+        color: #4D4F62;
+        mix-blend-mode: normal;
+        opacity: 0.5;
+        margin-left: 32px;
+        margin-top: 171px;
+        width: 311px;
+    }
+    .first {
+        margin-left: 32px;
+        margin-top: 569px;
+        width: 311px;
+        height: 222px;
+    }
+
+    .top {
+        width: 311px;
+        height: 3.55px;
+        
+    }
+    .first h1 {
+        margin-top: 27px;
+        margin-left: 28px;
+    }
+    .first p {
+        margin-left: 29px;
+        margin-top: 58px;
+    }
+    .first img {
+        margin-left: 226px;
+        margin-top: 137px;
+    }
+    .super {
+        width: 311px;
+        height: 222px;
+        margin-top: 322px;
+        margin-left: 32px;
+    }
+    .top2 {
+        width: 311px;
+        height: 3.55px;
+    }
+    .super h1 {
+        margin-top: 27px;
+        margin-left: 28px;
+    }
+    .super p {
+        margin-left: 29px;
+        margin-top: 58px;
+    }
+    .super img {
+        margin-top: 137px;
+        margin-left: 226px;
+    }
+
+    .karma {
+        margin-top: 814px;
+        margin-left: 32px;
+        width: 311px;
+        height: 222px;
+    }
+    .top4 {
+        width: 311px;
+        height: 3.55px;
+    }
+    .karma h1 {
+        margin-top: 27px;
+        margin-left: 29px;
+    }
+    .karma p {
+        margin-left: 29px;
+        margin-top: 58px;
+        width: 254px;
+    }
+    .karma img {
+        margin-top: 137px;
+        margin-left: 226px;
+    }
+    .calculator {
+        margin-left: 32px;
+        margin-top: 1060px;
+        width: 311px;
+        height: 222px;
+    }
+    .top3 {
+        width: 311px;
+        height: 3.55px;
+        
+    }
+
+    .calculator h1 {
+        margin-top: 27px;
+        margin-left: 28px;
+    }
+
+    .calculator p {
+        width: 254px;
+        margin-left: 29px;
+        margin-top: 58px;
+    }
+    .calculator img {
+        margin-top: 137px;
+        margin-left: 226px;
+    }
+}
